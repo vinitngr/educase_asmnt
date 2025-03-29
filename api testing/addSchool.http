@@ -1,0 +1,9 @@
+POST http://localhost:3000/addSchool
+Content-Type: application/json
+
+{
+  "name": "Greenwood High",
+  "address": "123 Elm Street, NY",
+  "latitude": 40.7128,
+  "longitude": -74.0060
+}
